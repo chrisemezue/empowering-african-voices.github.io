@@ -3,7 +3,7 @@ title: Empowering African Voices in AI - Data, Models, and Innovation
 subtitle: Deep Learning Indaba 2024 Workshop
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 > The workshop is structured to explore both the human-centric and technical aspects of AI, particularly in under-resourced communities within the Global South. It will delve into critical considerations such as data generation, annotation, legal frameworks, and sharing protocols, emphasising culturally contextual datasets and the governance frameworks that support them. Furthermore, the workshop will address sharing AI models and datasets through various licensing frameworks, emphasizing ethical data collection, community engagement, and the management of AI innovations in a manner that respects local cultures and languages.
