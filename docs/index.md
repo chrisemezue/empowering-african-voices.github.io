@@ -1,5 +1,5 @@
 ---
-title: Empowering African Voices in AI: Data, Models, and Innovation
+title: Empowering African Voices in AI - Data, Models, and Innovation
 subtitle: Deep Learning Indaba 2024 Workshop
 layout: page
 callouts: home_callouts
