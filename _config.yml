@@ -24,7 +24,7 @@ github_username:  chrisemezue
 
 # Build settings
 markdown: kramdown
-remote_theme: bulma-clean-theme
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 
