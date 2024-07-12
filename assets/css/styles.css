@@ -366,9 +366,15 @@ img{
   box-shadow: 0 3px 12px rgba(65,11,16,.15);
 }
 
-.decoration__img{
-  width: 150px;
+.decoration__img {
+  width: 230px;
+  height: 230px;
+  object-fit: cover;
+  border: solid;
+  border-color: #0c848a00;
+  border-radius: 15px;
 }
+
 
 .decoration__title{
   font-size: var(--h3-font-size);
