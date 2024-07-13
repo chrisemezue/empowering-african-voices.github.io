@@ -325,6 +325,7 @@ img{
 }
 
 .button-link{
+  font-size: 15px;
   background: none;
   padding: 0;
   color: var(--first-color);
@@ -367,8 +368,8 @@ img{
 }
 
 .decoration__img {
-  width: 230px;
-  height: 230px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
   border: solid;
   border-color: #0c848a00;
